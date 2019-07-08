@@ -1,11 +1,11 @@
 # Site settings
-author: Sharonda Warner
-title: 
+author: Sharonda Pettiett
+title: Why did you decide to learn data science?
 header-img: img/home-bg.png
 email: spettiett@yahoo.com
-copyright_name: Sharonda Warner
+copyright_name: Sharonda Pettiett
 description: > # this means to ignore newlines until "baseurl:"
-  
+  Blogging Assignments for Flatiron Bootcamp
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  spettiett
