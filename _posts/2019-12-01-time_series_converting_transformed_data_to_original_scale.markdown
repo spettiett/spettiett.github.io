@@ -1,33 +1,29 @@
 ---
 layout: post
 title:      "Time Series: Converting Transformed Data to Original Scale"
-date:       2019-12-01 14:51:21 +0000
+date:       2019-12-01 09:51:22 -0500
 permalink:  time_series_converting_transformed_data_to_original_scale
 ---
 
 
-So, you just worked through several Stationarity Assumptions to properly 
-transform your original dataset in preparation for time series modeling.  
-To make a time series stationary, you may have performed the following:
+So, you just worked through several Stationarity Assumptions to properly transform your original dataset in preparation for time series modeling.  To make a time series stationary, you may have performed the following:
 
-**To Remove Trend:  **
+**To Remove Trend:**
 
-	If your data has a strong trend (positive or negative) you can consider using the following to reduce the trend.  These transformations may be: log, square root, cube root, and/or smoothing  	using a rolling average/moving average or exponentially weighted 	moving average, etc. 
+If your data has a strong trend (positive or negative) you can consider using the following to reduce the trend.  These transformations may be: **log, square root, cube root, and/or smoothing using arolling average/moving average or exponentially weighted moving average**, etc. 
 
 **To Remove Seasonality and Trend:**
 
-	If your data shows both a strong trend and seasonality, then you may 
-	consider using differencing,  etc.
+If your data shows both a strong trend and seasonality, then you may 
+consider using **differencing**, etc.
 
-**Note:** With some data you may need to use a combination of these 
-transformations.  In order to satisfy the Stationarity assumptions.
+**Note:** With some data you may need to use a combination of these transformations.  In order to satisfy the Stationarity assumptions.
 
 Once you have performed the transformation(s) and re-test using a statisticaltest like Dickey-Fuller test and confirm that your p-value is less than .05, then you are ready to continue modeling the transformed data. 
 
 However, after the modeling process and it is time to forecast your data you will want to perform the forecasting on the original scale. So, we need to **un-transform** your data.
 
-So, the following examples show you how to work backwards from log, 
-differencing and/or rolling average to get to the original scale.
+So, the following examples show you how to work backwards from log, differencing and/or rolling average to get to the original scale.
 
 ________________
 
