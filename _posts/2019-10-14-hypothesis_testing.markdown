@@ -18,7 +18,7 @@ Here's a look at two commonly used hypothesis tests:
 
 **One-Sample Test**
 
-![](https://github.com/spettiett/BlogImages/blob/master/One-Sample%20Test.png)
+![(https://github.com/spettiett/BlogImages/blob/master/One-Sample%20Test.png)]
 
 
 
