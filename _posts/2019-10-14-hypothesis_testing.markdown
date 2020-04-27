@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Hypothesis Testing"
-date:       2019-10-14 15:01:30 +0000
+date:       2019-10-14 11:01:31 -0400
 permalink:  hypothesis_testing
 ---
 
@@ -19,6 +19,8 @@ Here's a look at two commonly used hypothesis tests:
 **One-Sample Test**
 
 !(https://github.com/spettiett/BlogImages/blob/master/One-Sample%20Test.png)
+
+![](https://github.com/spettiett/BlogImages/blob/master/One-Sample%20Test.png)
 
 
 
