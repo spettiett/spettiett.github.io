@@ -18,10 +18,10 @@ Here's a look at two commonly used hypothesis tests:
 
 **One-Sample Test**
 
-![(https://github.com/spettiett/BlogImages/blob/master/One-Sample%20Test.png)]
+![](https://user-images.githubusercontent.com/49958324/80516250-cc82db80-8948-11ea-991a-68dab72578de.png)
 
 
 
 **Two-Sample Test**
 
-!(https://github.com/spettiett/BlogImages/blob/master/Two-Sample%20Test.png)
+![](https://user-images.githubusercontent.com/49958324/80516422-0d7af000-8949-11ea-9d1c-6a554c85a74c.png)
