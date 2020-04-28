@@ -1,11 +1,11 @@
 ---
 layout: post
 title:      "Confusion Matrix | Performance of a Classification Algorithm"
-date:       2020-02-05 23:48:20 +0000
+date:       2020-02-05 18:48:21 -0500
 permalink:  confusion_matrix_performance_of_a_classification_algorithm
 ---
 
-
+> Published on Medium | [Article](https://medium.com/@spettiett/confusion-matrix-7529a47ae5ee)
 
 Understanding what metrics to use to evaluate machine learning models is very important in a machine learning project.   
 
