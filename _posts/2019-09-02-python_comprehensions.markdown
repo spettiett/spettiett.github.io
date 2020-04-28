@@ -1,10 +1,11 @@
 ---
 layout: post
 title:      "Python Comprehensions"
-date:       2019-09-02 19:48:40 +0000
+date:       2019-09-02 15:48:41 -0400
 permalink:  python_comprehensions
 ---
 
+> Published on Medium | [Article](https://medium.com/@spettiett/python-comprehensions-for-beginners-857d02d88d09)
 
 ```
 Several types of comprehensions are supported in both Python 2 and Python 3:
