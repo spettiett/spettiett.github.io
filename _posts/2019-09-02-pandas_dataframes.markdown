@@ -1,10 +1,11 @@
 ---
 layout: post
 title:      "Pandas | Dataframes"
-date:       2019-09-03 02:07:23 +0000
+date:       2019-09-02 22:07:24 -0400
 permalink:  pandas_dataframes
 ---
 
+> Published on Medium | [Article](https://medium.com/@spettiett/pandas-dataframe-for-beginners-cec24dc3d1ca)
 
 ```
 Pandas - DataFrames
