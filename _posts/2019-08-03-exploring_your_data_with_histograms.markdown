@@ -5,6 +5,7 @@ date:       2019-08-03 16:37:20 -0400
 permalink:  exploring_your_data_with_histograms
 ---
 
+> Published on Medium | [Article](https://medium.com/@spettiett/exploring-your-data-with-histograms-eec192eedfd5)
 
 I don't about you, but the first time I saw data in a histogram it looked like a 
 "Pyramid of Lego Blocks" to me.
