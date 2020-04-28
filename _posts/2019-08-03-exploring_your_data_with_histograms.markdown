@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Exploring Your Data with Histograms"
-date:       2019-08-03 20:37:19 +0000
+date:       2019-08-03 16:37:20 -0400
 permalink:  exploring_your_data_with_histograms
 ---
 
@@ -31,6 +31,9 @@ The center is the median and/or mean of the data. The spread is the range of the
 For overall shape, notice whether the histogram is symmetric or skewed. A histogram that displays a symmetric distribution has a single peak and the left and right sides are roughly the same, with no gaps or apparent outliers.
 
 If the histogram is heavier on one side than the other side, you have a skewed distribution. As you move away from the peak, the thinner ends of a distribution are called “tails”.
+
+
+![](https://user-images.githubusercontent.com/49958324/80517925-6a77a580-894b-11ea-9131-b12b87d7576d.png)
 
 		  	 
 	 
